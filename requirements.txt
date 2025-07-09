@@ -1,5 +1,6 @@
-streamlit
-numpy
+streamlit==1.23.1
+numpy==1.23.5
 pandas
 pillow
-tensorflow
+tensorflow-cpu==2.12.0
+
